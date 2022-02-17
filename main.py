@@ -8,7 +8,7 @@ list_animes = ["animeovf.fr", "vostfree.tv", "toonanime.tv", "toonanime.cc", "ot
 
 def pingfilms(list):
     # parameter = '-n' if platform.system().lower() == 'windows' else '-c'
-    print("\nSouhaitez vraiment lancer le processus de ping des sites de films ?")
+    print("\nSouhaitez-vous vraiment lancer le processus de ping des sites de films ?")
     input_choix = input("Tapez Y ou N : ")
     if input_choix == "Y":
         print("\n")
@@ -31,7 +31,7 @@ def pingfilms(list):
 
 def pinganimes(list):
     # parameter = '-n' if platform.system().lower() == 'windows' else '-c'
-    print("\nSouhaitez vraiment lancer le processus de ping des sites d'animés ?")
+    print("\nSouhaitez-vous vraiment lancer le processus de ping des sites d'animés ?")
     input_choix = input("Tapez Y ou N : ")
     if input_choix == "Y":
         print("\n")
