@@ -5,7 +5,7 @@ Voici un petit script Python qui consiste à ping différentes adresses de diff�
 - Il est donc tout à fait possible de modifier les différentes adresses présentes dans mon script, il suffit juste de les rajouter/supprimer aux différentes listes du script.
 - N'oubliez pas d'avoir un adblock and enjoy ;)
 # Installation
-```git clone ```
+```git clone https://github.com/AxianeOff/Pinger-streaming.git```
 # Utilisation
 ```bash
 cd Pinger-streaming
